@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "enderman-world.aternos.me",
+    "port": 42611,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -33,7 +33,7 @@
       "messages": [
         "I'm a regular player",
         "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "irfan is the owner"
       ]
     },
     "chat-log": true,
